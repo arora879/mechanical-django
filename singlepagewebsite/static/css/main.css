@@ -1,0 +1,15 @@
+
+.first-div{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 80px;
+}
+
+#mainroot .service .fancy-div{
+    margin-right: 10px;
+    width: 30%;
+}
+#mainroot .gap-class{
+    margin-top: 20px;
+}
